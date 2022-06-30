@@ -21,7 +21,7 @@ JupyterLite is being tested against modern web browsers:
 
 Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
 
-## Further Information and Updates
+### Further Information and Updates
 
 For more info, keep an eye on the JupyterLite documentation:
 
